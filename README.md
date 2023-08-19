@@ -9,7 +9,7 @@ The Repository contains the terraform code for creating a VPC along with subnet 
 Clone the project 
 
 ```bash
-  git clone https://github.com/Younus-Saberi/terraform-script-aws
+ https://github.com/Younus-Saberi/aws-terrafrom-script/
 ```
 
 ## Before running below commands, Please Configure Your AWS Secrets and AWS Account ID using AWS CLI
