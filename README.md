@@ -1,3 +1,7 @@
+![Screenshot_20221204_115925](https://github.com/Younus-Saberi/aws-terrafrom-script/assets/73644685/5d012de3-e17b-4378-90c8-9c75d3b86de7)
+![Uploading Screenshot 2023-08-19 130924.png…]()
+![Uploading Screenshot 2023-08-19 130903.png…]()
+![Uploading Screenshot 2023-08-19 130720.png…]()
 # Terraform Scripts for AWS 
 
 The Repository contains the terraform code for creating a VPC along with subnet and launching an EC2 instance with the preferred network and security group configuration
@@ -74,12 +78,13 @@ What optimizations did I make in your code?
 - I was writing in root file `main.tf` and running the terraform script to build my infrastructure. Later I have realised it was not the best option to do so
 - Improve the efficieny and execution of the terraform script by adding different modules and help to separate different entities and logic of the infrastructure
 
+## Screenshots
+
+![Uploading Screenshot 2023-08-19 130715.png…]()
+![Uploading Screenshot 2023-08-19 130704.png…]()
+
 
 
 ## Feedback
 
 If you have any feedback, please reach out to us at younussaberi@gmail.com
-
-
-## Screenshots
-
