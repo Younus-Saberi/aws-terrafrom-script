@@ -1,7 +1,3 @@
-![Screenshot_20221204_115925](https://github.com/Younus-Saberi/aws-terrafrom-script/assets/73644685/5d012de3-e17b-4378-90c8-9c75d3b86de7)
-![Uploading Screenshot 2023-08-19 130924.png…]()
-![Uploading Screenshot 2023-08-19 130903.png…]()
-![Uploading Screenshot 2023-08-19 130720.png…]()
 # Terraform Scripts for AWS 
 
 The Repository contains the terraform code for creating a VPC along with subnet and launching an EC2 instance with the preferred network and security group configuration
@@ -80,9 +76,15 @@ What optimizations did I make in your code?
 
 ## Screenshots
 
-![Uploading Screenshot 2023-08-19 130715.png…]()
-![Uploading Screenshot 2023-08-19 130704.png…]()
+![EC2 Instance Details](https://github.com/Younus-Saberi/aws-terrafrom-script/assets/73644685/9e505a23-03ad-408d-bb23-1f77e0373303)
 
+![Security Groups Details](https://github.com/Younus-Saberi/aws-terrafrom-script/assets/73644685/4d1109d1-e28f-4645-a121-72036c8b43a8)
+
+![VPC Details](https://github.com/Younus-Saberi/aws-terrafrom-script/assets/73644685/5398a48c-8495-4c75-a3b1-22bf8dd0ff93)
+
+![Terrafrom Init and Terrfrom Plan Command](https://github.com/Younus-Saberi/aws-terrafrom-script/assets/73644685/dd6fb6f6-fae9-45ab-9f6e-4d102685ffc7)
+
+![Terrafrom Apply Command](https://github.com/Younus-Saberi/aws-terrafrom-script/assets/73644685/c77cd368-a55d-4581-a2b2-a27c71668012)
 
 
 ## Feedback
